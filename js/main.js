@@ -6,28 +6,10 @@ const artists = [
     longD: 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quidem, odit possimus. Lorem, ipsum.',
   },
   {
-    imgSrc: './src/imgs/bruno-mars.jpg',
-    name: 'Bruno Mars',
+    imgSrc: './src/imgs/usc_photo_1.jpeg',
+    name: 'University of Southern California, 2026',
     shortD: 'Lorem ipsum dolor sit, amet consectetur.',
     longD: 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quidem, odit possimus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque dolores maxime sed voluptate, voluptatibus quaerat placeat?',
-  },
-  {
-    imgSrc: './src/imgs/ed-sheeran.jpg',
-    name: 'Ed Sheeran',
-    shortD: 'Lorem ipsum adipisicing elit.',
-    longD: 'Lorem, ipsum dolor sconsectetur adipisicing elit. Quidem, odit possimus. Lorem ipsum dolor sit amet consectetur, adipisicing elit.',
-  },
-  {
-    imgSrc: './src/imgs/sia.png',
-    name: 'Sia',
-    shortD: 'Lorem ipsum dolor sit, amet conisicing elit.',
-    longD: 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quidem, odit possimus. Lorem ipsum dolor sit amet.',
-  },
-  {
-    imgSrc: './src/imgs/eminem.jpg',
-    name: 'Eminem',
-    shortD: 'Lorem ipsum dolor adipisicing elit.',
-    longD: 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quidem, odit possimus. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ipsa, quisquam?',
   },
 ];
 
