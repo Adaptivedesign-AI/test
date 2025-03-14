@@ -40,7 +40,7 @@ const artists = [
 const artistSection = document.querySelector('.artists-section');
 const tempList = document.createElement('ul');
 tempList.classList.add('cards-2-container');
-artistSection.innerHTML += '<h2 class="heading-2 dark-theme">Featured Stars</h2>';
+artistSection.innerHTML += '<h2 class="heading-2 dark-theme">Past and Future Workshops</h2>';
 artists.forEach((artist, index) => {
   tempList.innerHTML += `
   <li class="card-2 card-2-1 ${index > 1 ? 'display-none' : ''}">
