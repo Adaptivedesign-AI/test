@@ -6,8 +6,8 @@ const artists = [
     longD: 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quidem, odit possimus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi!',
   },
   {
-    imgSrc: './src/imgs/lorde.webp',
-    name: 'Billie Eilish',
+    imgSrc: './src/imgs/berkeley_photo_1.png',
+    name: 'University of California, Berkeley, 2025',
     shortD: 'Lorem ipsum dolor sit, adipisicing elit.',
     longD: 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quidem, odit possimus. Lorem, ipsum.',
   },
